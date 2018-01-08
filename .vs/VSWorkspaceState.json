@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\actions",
+    "\\components",
+    "\\containers",
+    "\\reducers"
+  ],
+  "SelectedNode": "\\containers\\WeatherList.js",
+  "PreviewInSolutionExplorer": false
+}
